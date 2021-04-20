@@ -18,3 +18,12 @@ How these pictures are created?
 - 10 ... 40 Tokens in Rooms
 - 50 ... 60 Dice boards & dices
 - 70 ... Remote Control
+
+
+## pre cut images
+
+Images created with sbgck-opencv commit
+
+(git rev-parse --short HEAD)
+
+28d53bf
