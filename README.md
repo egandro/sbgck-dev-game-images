@@ -27,3 +27,11 @@ Images created with sbgck-opencv commit
 (git rev-parse --short HEAD)
 
 28d53bf
+
+## pre masked images
+
+Images created with sbgck-opencv commit
+
+(git rev-parse --short HEAD)
+
+c8566dd
